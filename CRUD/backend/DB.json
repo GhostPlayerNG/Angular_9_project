@@ -1,19 +1,29 @@
 {
-    "products":[
-        {
-            "id": 1,
-            "name": "Caneta BIC Preta",
-            "price": 5.89
-        }, 
-        {
-            "id": 2,
-            "name": "Notebook MAC PRO",
-            "price": 12000.89
-        },
-        {
-            "id": 3,
-            "name": "Sansung 520+",
-            "price": 5000.89
-        }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook MAC PRO",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Sansung 520+",
+      "price": 5000.89
+    },
+    {
+      "name": "Produto de Teste",
+      "price": 125.98,
+      "id": 4
+    },
+    {
+      "name": "Teste Formulário",
+      "price": "100.00",
+      "id": 5
+    }
+  ]
 }
